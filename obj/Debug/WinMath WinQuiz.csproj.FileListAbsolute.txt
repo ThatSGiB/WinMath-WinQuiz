@@ -1,0 +1,12 @@
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\bin\Debug\WinMath WinQuiz.exe.config
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\bin\Debug\WinMath WinQuiz.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\bin\Debug\WinMath WinQuiz.pdb
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath WinQuiz.csproj.AssemblyReference.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath WinQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath_WinQuiz.Form1.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath_WinQuiz.Form2.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath_WinQuiz.Properties.Resources.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath WinQuiz.csproj.GenerateResource.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath WinQuiz.csproj.CoreCompileInputs.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath WinQuiz.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\WinMath WinQuiz\WinMath WinQuiz\obj\Debug\WinMath WinQuiz.pdb
